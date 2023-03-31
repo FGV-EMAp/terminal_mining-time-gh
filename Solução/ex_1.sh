@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
 #primeiro, como sugerido, eu concatenei os arquivos de texto por meio do comando cat
-#após isso, basta executar a linha a seguir
+#apos isso, basta executar o comando a seguir, que contara o numero de linhas:
 
 wc -l concatenado.txt > resposta_ex_1

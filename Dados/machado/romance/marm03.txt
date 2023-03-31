@@ -1,4 +1,4 @@
-ROMANCE, Helena,1876
+Helena,1876
 
 Helena
 
