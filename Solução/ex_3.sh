@@ -5,4 +5,4 @@
 
 #apos isso, basta executar o seguinte comando, que ordenara os titulos em ordem crescente (no caso, o ano de publicacao).
 
-sort -t "," -k2n /home/guilherme/terminal_mining-time-gh/Dados/machado/contos/titulos_contos.txt > resposta_ex_3
+sort -t "," -k2n ../Dados/machado/contos/titulos_contos.txt > resposta_ex_3.txt
