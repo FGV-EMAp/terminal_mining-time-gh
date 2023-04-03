@@ -4,4 +4,5 @@
 #Essa remocao fez com que os arquivos iniciassem diretamente com o titulo.
 #apos isso, basta executar o comando a seguir, que seleciona as primeiras linhas de cada arquivo as ordenam.
 
-head -n1 ../Dados/machado/*/*.txt | sort > resposta_ex_2.txt
+ sed -ns '1p' ../Dados/machado/*/*.txt | sort -bn > resposta_ex_2.txt
+
