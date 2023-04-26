@@ -1,4 +1,4 @@
-Conto, Sales, 1887
+Sales, 1887
 
 Sales
 

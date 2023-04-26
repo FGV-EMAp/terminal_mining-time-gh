@@ -1,4 +1,4 @@
-ROMANCE, Quincas Borba,1891
+Quincas Borba,1891
 
 Quincas
 Borba
